@@ -1,4 +1,4 @@
-# hi amayaya :)
+# hi amayaya
 
 [beside you](https://garrett-lam.github.io/SpotifyWeb/favSong.html)
 
